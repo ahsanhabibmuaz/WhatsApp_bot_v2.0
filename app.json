@@ -29,7 +29,7 @@
     "OWNER_NUMBER": {
       "description": "Owner WhatsApp number without + (Default: 966500896152)",
       "required": false,
-      "value": "966500896152"
+      "value": "966511390345"
     },
     "OWNER_NAME": {
       "description": "Owner name (Default: Muaz)",
