@@ -1,15 +1,15 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["KHAN-MD"],
+  "name": "MUAZ",
+  "description": "Javascript WhatsApp bot made by Muaz",
+  "logo": "https://files.catbox.moe/rdm8js.jpg",
+  "keywords": ["Pain v2.0"],
   "success_url": "/",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here. (Required)",
+      "description": "DJ~NmxyBLxC#6l6ZBfkoiafxUyVFLZBTlrqzsfWXfy9Y7wMdVJgL6Bo",
       "required": true,
-      "value": ""
+      "value": "DJ~NmxyBLxC#6l6ZBfkoiafxUyVFLZBTlrqzsfWXfy9Y7wMdVJgL6Bo"
     },
     "PREFIX": {
       "description": "Bot prefix (Default: .)",
@@ -17,24 +17,24 @@
       "value": "."
     },
     "BOT_NAME": {
-      "description": "Your bot name (Default: KHAN-MD)",
+      "description": "Your bot name (Default: Pain v2.0)",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "MUAZ"
     },
     "MODE": {
-      "description": "Bot mode: public/private/inbox/groups (Default: private)",
+      "description": "Bot mode: public/private/inbox/groups (Default: public)",
       "required": false,
       "value": "public"
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number without + (Default: 923427582273)",
+      "description": "Owner WhatsApp number without + (Default: 966500896152)",
       "required": false,
-      "value": "923427582273"
+      "value": "966500896152"
     },
     "OWNER_NAME": {
-      "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
+      "description": "Owner name (Default: Muaz)",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "Muaz"
     },
     "AUTO_REPLY": {
       "description": "Auto reply to messages: true/false (Default: false)",
@@ -49,7 +49,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Auto status reply message",
       "required": false,
-      "value": "*KHAN MD VIEWED YOUR STATUS 🤖*"
+      "value": "*Pain v2.0 VIEWED YOUR STATUS 🫸*"
     },
     "READ_MESSAGE": {
       "description": "Auto read messages: true/false (Default: false)",
@@ -67,9 +67,9 @@
       "value": "false"
     },
     "ALWAYS_ONLINE": {
-      "description": "Always online mode: true/false (Default: false)",
+      "description": "Always online mode: true/false (Default: true)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_TYPING": {
       "description": "Auto typing: true/false/inbox/group (Default: false)",
@@ -82,9 +82,9 @@
       "value": "false"
     },
     "ANTI_LINK": {
-      "description": "Anti-link mode: true/warn/delete/false (Default: true)",
+      "description": "Anti-link mode: true/warn/delete/false (Default: false)",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "ANTI_DELETE": {
       "description": "Anti delete: true/false (Default: true)",
@@ -107,9 +107,9 @@
       "value": "inbox"
     },
     "ANTI_CALL": {
-      "description": "Anti call: true/false (Default: false)",
+      "description": "Anti call: true/false (Default: true)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "REJECT_MSG": {
       "description": "Call reject message",
@@ -134,12 +134,12 @@
     "REACT_EMOJIS": {
       "description": "Reaction emojis (comma-separated)",
       "required": false,
-      "value": "❤️,🔥,👍,😍,😂,😮,😎,🥰,👋,🤝,💯,✨,⭐,🎉,🤗,😊,🙌,💪,👏,✅,🎈,🎊,🏆,⚡,💫,👌,🤙,💖,💕,💗,👑,💎,🌟,🎯,🎨,🎭,🎪,🎢,🎡,🎠"
+      "value": "❤️,🔥,👍,😍,😂,😮,😎,🥰,👋,🤝,💯,✨,⭐,🎉,🤗,😊,🙌,💪,👏,✅,🎈,🫸,🎊,🏆,⚡,💫,👌,🤙,💖,💕,💗,👑,💎,🌟,🎯,🎨,🎭,🎪,🎢,🎡,🎠"
     },
     "OWNER_EMOJIS": {
       "description": "Owner reaction emojis (comma-separated)",
       "required": false,
-      "value": "👑,💎,⭐,✨,🔥,💯,✅,🎉,🤖,⚡,💫,🌟,🏆,👾,🚀,💪,🎯,🔱,♾️,⚜️"
+      "value": "👑,💎,⭐,✨,🔥,💯,✅,🎉,🤖,⚡,💫,🌟,🏆,👾,🚀,💪,🎯,🫸,♾️,✂️"
     },
     "WELCOME": {
       "description": "Welcome/Goodbye messages: true/false (Default: false)",
@@ -149,7 +149,7 @@
     "BOT_MEDIA_URL": {
       "description": "Bot media URL",
       "required": false,
-      "value": "https://files.catbox.moe/7zfdcq.jpg"
+      "value": "https://files.catbox.moe/rdm8js.jpg"
     },
     "AUTO_DOWNLOADER": {
       "description": "Auto downloader: true/false (Default: false)",
@@ -162,9 +162,9 @@
       "value": "false"
     },
     "DESCRIPTION": {
-      "description": "Bot description",
+      "description": "Powered by Muaz",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© Powered by Muaz*"
     }
   },
   "buildpacks": [
