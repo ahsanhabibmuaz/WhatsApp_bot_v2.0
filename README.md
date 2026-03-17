@@ -18,12 +18,12 @@
     0 0 36px #d896ff,
     0 0 48px #ab47bc;
   padding: 12px 0;
-"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Muaz TechX
+"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Muaz
 </div>
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-✨_MUAZ--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/ahsanhabibmuaz&link=https://github.com/ahsanhabibmuaz" />
+  <img src="https://img.shields.io/badge/-✨_MUAZ_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/ahsanhabibmuaz&link=https://github.com/ahsanhabibmuaz" />
 </h1>
 </p>
 </p>
