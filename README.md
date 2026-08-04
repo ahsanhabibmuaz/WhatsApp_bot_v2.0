@@ -6,4 +6,4 @@
   </a> 
 </div>
 
-**🔒 This repo is now private**
+<center>**🔒 Due to security reasons: This repo is now private**</center>
