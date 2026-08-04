@@ -1,6 +1,7 @@
 <div align="center">
+  
 <!-- Top Animated Header Wave -->
-## 🫸 PAIN BOT v2.0
+# 🫸 PAIN BOT v2.0
 
 <!-- Animated Dynamic Typing Banner -->
 <a href="https://drift.rip/muaz">
