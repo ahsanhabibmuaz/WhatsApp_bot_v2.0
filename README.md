@@ -40,10 +40,8 @@
 * 🎨 **Sticker & Image Lab:** Text-effect generators, background removal, AI upscaling, and more.
 
 ---
-
-<div align="center">
-
 ### 📜 Full Command Reference
+<div align="center">
 
 *(Click any category below to expand it.)*
 
