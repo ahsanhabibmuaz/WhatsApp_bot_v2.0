@@ -18,7 +18,7 @@
 > [!CAUTION]
 > 🔒 **This repository is now private.**  
 > Due to security reasons, protecting API credentials, and ensuring project integrity, **Pain-Bot v2.0** is no longer maintained in a public repository. Source code access and active updates are restricted to authorized maintainers.
-
+<br>
 ---
 
 ### 🔒 Why is this Repository Private?
@@ -29,7 +29,7 @@
 
 ---
 
-### 🚀 Key Features
+### 🚀 Key Features:
 
 * ⚡ **Ultra-Fast Execution:** Optimized session handling with minimal latency.
 * 🛡️ **Automated Moderation:** Smart keyword filtering, anti-spam mechanisms, and admin commands.
@@ -41,10 +41,8 @@
 * 🎨 **Sticker & Image Lab:** Text-effect generators, background removal, AI upscaling, and more.
 
 ---
-### 📜 Full Command Reference
+### 📜 Full Command Reference:
 <div align="center">
-
-(Click any category below to expand it.)
 
 </div>
 
@@ -312,7 +310,7 @@ A full Akatsuki-themed command set dedicated to Pain/Nagato from Naruto.
 | `.greater` | Plays the *Greater Pain* audio clip. |
 
 </details>
-
+- - -
 ### ⚠️ Disclaimer
 
 This bot is created for **educational purposes only**. It is **not** an official WhatsApp product. Using automated/unofficial clients can result in your WhatsApp account being banned — use at your own risk. The developers assume no liability for misuse, spam, or account restrictions.
@@ -323,7 +321,7 @@ This bot is created for **educational purposes only**. It is **not** an official
 
 ---
 
-### 👤 Developer & Contact
+### 👤 Developer:
 
 <p align="center">Created and maintained with ❤️ by <b>Muaz</b>.</p>
 
