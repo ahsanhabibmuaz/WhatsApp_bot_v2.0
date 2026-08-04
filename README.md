@@ -328,7 +328,7 @@ This bot is created for **educational purposes only**. It is **not** an official
 
 <div align="center">
 
-[![Bio Link](https://img.shields.io/badge/Website-drift.rip%2Fmuaz-FF0055?style=for-the-badge&logo=firefox&logoColor=white)](https://drift.rip/muaz)
+[![Bio Link](https://img.shields.io/badge/Website-drift.rip%2Fmuaz-FFsa11?style=for-the-badge&logo=firefox&logoColor=white)](https://drift.rip/muaz)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-@ahsanhabibmuaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsanhabibmuaz)
 
 </div>
