@@ -1,3 +1,9 @@
-# WhatsApp_bot_v2.0
+# Pain-Bot v2.0
 An Automated Multi-Device WhatsApp bot Created by Muaz
-[https://files.catbox.moe/rdm8js.jpg]
+<div align="center"> 
+  <a href="https://drift.rip/muaz"> 
+    <img src="https://i.postimg.cc/rFn9X6CL/bot-image.jpg" alt="Pain Bot" height="300"> 
+  </a> 
+</div>
+
+**🔒 This repo is now private**
