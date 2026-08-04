@@ -48,7 +48,7 @@
 </div>
 
 <details>
-<summary><b>⚙️ Core Systems</b> — how the bot works under the hood</summary>
+<summary><b>⚙️ Core Systems</b> — how the bot works</summary>
 <br>
 
 - **Dynamic Prefix** — the bot reads its command prefix from `data/prefix.json` on every message, so `.setprefix` (or hand-editing the file) takes effect instantly without a restart.
