@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- Top Animated Header Wave -->
 ## 🫸 PAIN BOT v2.0
 
