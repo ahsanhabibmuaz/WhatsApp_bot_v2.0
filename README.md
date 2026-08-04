@@ -1,42 +1,107 @@
-# 🫸 Pain Bot v2.0
+<div align="center">
 
-A feature-packed WhatsApp bot built with the **Baileys** (Node.js) library, themed around **Pain / Nagato** from Naruto. Pain Bot handles group moderation, downloads, AI chat, games, image/sticker tools, and a full set of Akatsuki-flavored fun commands — all from a simple `.` prefix.
+<!-- Top Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2A004E,100:FF0055&height=180&section=header&text=PAIN-BOT%20v2.0&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Pain-Bot;Multi+Device+WhatsApp+Bot;Coded+By+Muaz" alt="Typing SVG" />
-  </a> 
-</div>
+<!-- Animated Dynamic Typing Banner -->
+<a href="https://drift.rip/muaz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=Automated+WhatsApp+Bot;High-Performance+Group+Moderation;Encrypted+Session+Handling;Themed+Around+Pain+%2F+Nagato;Developed+by+Muaz" alt="Typing SVG" />
+</a>
 
-<div align="center"> 
-  <a href="https://drift.rip/muaz"> 
-    <img src="https://i.postimg.cc/rFn9X6CL/bot-image.jpg" alt="Pain Bot" height="300"> 
-  </a> 
+<br><br>
+
+<!-- Main Bot Banner Image -->
+<a href="https://drift.rip/muaz"> 
+  <img src="https://i.postimg.cc/rFn9X6CL/bot-image.jpg" alt="Pain Bot" height="300" style="border-radius: 14px; box-shadow: 0 0 20px rgba(255, 0, 85, 0.4);"> 
+</a>
+
+<br><br>
+
+<!-- Animated Badges & Status Indicators -->
+[![Repo Status](https://img.shields.io/badge/Repo_Status-Private-FF0055?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Developer](https://img.shields.io/badge/Developer-Muaz-00D2FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://drift.rip/muaz)
+[![Version](https://img.shields.io/badge/Version-2.0.0-purple?style=for-the-badge&logo=semantic-release&logoColor=white)](https://github.com)
+[![Library](https://img.shields.io/badge/Library-Baileys-00D2FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/WhiskeySockets/Baileys)
+[![Node](https://img.shields.io/badge/Node.js-v18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+
 </div>
 
 ---
 
-## 📖 About
+### 🐍 Contribution Activity Snake
 
-Pain Bot is a multi-device WhatsApp bot powered by [Baileys](https://github.com/WhiskeySockets/Baileys). It runs entirely in Node.js, connects via QR code or pairing code, and gives group admins powerful moderation tools while also packing in AI chat, media downloaders, sticker creation, games, and a dedicated **Pain (Nagato)**-themed command set.
-
-Default command prefix is `.` and can be changed live with `.setprefix`.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+</div>
 
 ---
 
-## ⚙️ Core Systems
+> [!CAUTION]
+> 🔒 **Repository Status: Private**  
+> Due to security protocols, protecting API credentials, and maintaining project integrity, **Pain-Bot v2.0** is **not maintained in a public repository**. Source code access and active deployments are strictly restricted to authorized maintainers.
+
+---
+
+## 📌 Overview
+
+**Pain-Bot v2.0** is an automated, high-performance WhatsApp bot engineered for group moderation, automated workflows, media handling, and rapid command responses.
+
+Themed around **Pain / Nagato** from Naruto, it runs on the **Baileys** multi-device WhatsApp Web API and packs together group management, an AI chatbot, media downloaders, sticker/image tools, mini-games, and a dedicated Akatsuki-flavored command set — all triggered with a simple, fully customizable command prefix.
+
+The codebase was transitioned to a private infrastructure to enforce strict security standards, protect backend configurations, and prevent token or session hijack exploits.
+
+---
+
+## 🔒 Why is this Repository Private?
+
+<div align="center">
+  <img src="https://i.imgur.com/dAnA42f.gif" width="100%" height="3px" />
+</div>
+
+* 🛡️ **Security & Confidentiality:** Core moderation scripts, administrative triggers, and backend mechanics are hidden to prevent security risks.
+* 🗝️ **Credential & Token Protection:** Guarantees no exposure of session files, auth tokens, or private API keys.
+* 🚫 **Anti-Cloning & Unauthorized Distribution:** Prevents outdated, unverified, or malicious public forks from circulating.
+
+---
+
+## 🚀 Key Features
+
+* ⚡ **Ultra-Fast Execution:** Optimized session handling with minimal latency.
+* 🛡️ **Automated Moderation:** Smart keyword filtering, anti-spam mechanisms, and admin commands.
+* 🛠️ **Utility & Media Engine:** Built-in sticker conversion, media downloaders, and custom auto-replies.
+* 🔐 **Encrypted Session Guard:** Isolated environment configs for continuous, secure execution.
+* 🤖 **AI-Powered Chat:** GPT & Gemini integration plus an always-on group chatbot mode.
+* 🫸 **Pain (Nagato) Theme Pack:** A full set of Akatsuki-exclusive audio & lore commands.
+* 🎮 **Built-In Mini-Games:** Tic-Tac-Toe, Hangman, Trivia, Truth or Dare.
+* 🎨 **Sticker & Image Lab:** Text-effect generators, background removal, AI upscaling, and more.
+
+---
+
+<div align="center">
+
+## 📜 Full Command Reference
+
+*Click any category below to expand it.*
+
+</div>
+
+<details>
+<summary><b>⚙️ Core Systems</b> — how the bot works under the hood</summary>
+<br>
 
 - **Dynamic Prefix** — the bot reads its command prefix from `data/prefix.json` on every message, so `.setprefix` (or hand-editing the file) takes effect instantly without a restart.
 - **Public / Private Mode** — `.mode public` lets everyone use the bot; `.mode private` restricts commands to the owner/sudo only (moderation like antilink/antibadword/antitag still runs in groups either way).
-- **Owner & Sudo System** — the bot owner (set in `settings.js`) and any number of sudo users (`.sudo add/del/list`) get elevated access to owner-only commands and moderation overrides, independent of WhatsApp group admin status.
-- **Ban System** — `.ban` / `.unban` block a user from using *any* bot command. This is a bot-level restriction (not a WhatsApp group action), so it works for the owner/sudo even without the bot being a group admin. Banned users get a silent 🚫 reaction on each attempt, with an occasional reminder message every ~10–12 tries.
-- **Exact Command Matching** — commands are matched precisely (e.g. `.bansho` will never accidentally trigger `.ban`), preventing prefix-collision bugs.
-- **Lightweight Message Store** — keeps a small rolling window of recent messages per chat for features like `.delete`, antidelete, and quoting.
+- **Owner & Sudo System** — the bot owner and any number of sudo users (`.sudo add/del/list`) get elevated access to owner-only commands and moderation overrides, independent of WhatsApp group admin status.
+- **Ban System** — `.ban` / `.unban` block a user from using *any* bot command. This is a bot-level restriction, so it works for the owner/sudo even without the bot being a group admin. Banned users get a silent 🚫 reaction per attempt, with an occasional reminder text every ~10–12 tries.
+- **Exact Command Matching** — commands are matched precisely (e.g. `.bansho` will never accidentally trigger `.ban`).
+- **Lightweight Message Store** — keeps a rolling window of recent messages per chat for `.delete`, antidelete, and quoting.
 - **Auto Temp Cleanup** — temp/session files are periodically purged to avoid disk/RAM bloat on hosted panels.
 
----
+</details>
 
-## 🌐 General Commands
+<details>
+<summary><b>🌐 General Commands</b></summary>
+<br>
 
 | Command | Description |
 |---|---|
@@ -59,13 +124,15 @@ Default command prefix is `.` and can be changed live with `.setprefix`.
 | `.ss <url>` / `.ssweb` / `.screenshot` | Takes a screenshot of any website. |
 | `.jid` | Shows the current group's JID. |
 | `.url` | Uploads a replied/attached media file and returns a direct download URL. |
-| `.settings` | Shows the current status of every toggleable feature (mode, autoread, antilink, etc.) — owner only. |
+| `.settings` | Shows the current status of every toggleable feature — owner only. |
 
----
+</details>
 
-## 👮 Group Admin Commands
+<details>
+<summary><b>👮 Group Admin Commands</b></summary>
+<br>
 
-*(Require the sender to be a group admin, or the bot owner/sudo. The bot itself must be a group admin for most of these.)*
+*Require the sender to be a group admin, or the bot owner/sudo. The bot itself must be a group admin for most of these.*
 
 | Command | Description |
 |---|---|
@@ -77,17 +144,17 @@ Default command prefix is `.` and can be changed live with `.setprefix`.
 | `.mute [minutes]` | Locks the group so only admins can send messages; optional auto-unmute timer. |
 | `.unmute` | Unlocks the group for everyone. |
 | `.delete` / `.del [count] [@user]` | Deletes recent messages — from a specific user, a replied message, or the last N group messages. |
-| `.kick`, `.warn @user` | Issues a warning to a user; auto-kicks after 3 warnings. |
+| `.warn @user` | Issues a warning to a user; auto-kicks after 3 warnings. |
 | `.warnings @user` | Checks how many warnings a user has. |
 | `.tag <message>` | Sends a message/media that tags every group member individually. |
 | `.tagall` | Tags every group member in a single message. |
 | `.tagnotadmin` | Tags only the non-admin members. |
 | `.hidetag <message>` | Sends a message that mentions everyone without visibly listing their names. |
 | `.antilink on/off/set` | Auto-deletes (or kicks/warns for) messages containing links. |
-| `.antibadword on/off/set` | Filters profanity/slurs using obfuscation-resistant detection (leetspeak, separators) and deletes/kicks/warns offenders. |
+| `.antibadword on/off/set` | Filters profanity/slurs using obfuscation-resistant detection and deletes/kicks/warns offenders. |
 | `.antitag on/off/set` | Detects and blocks mass-tagging spam (tagall abuse) with delete/kick actions. |
 | `.chatbot on/off` | Enables an AI chatbot that responds when the bot is mentioned or replied to in the group. |
-| `.welcome on/off/set` | Sends a custom welcome image/message to new members (supports `{user}`, `{group}`, `{description}` variables). |
+| `.welcome on/off/set` | Sends a custom welcome image/message to new members. |
 | `.goodbye on/off/set` | Sends a custom goodbye message when members leave. |
 | `.resetlink` / `.revoke` | Resets the group's invite link. |
 | `.setgdesc <text>` | Updates the group description. |
@@ -95,9 +162,11 @@ Default command prefix is `.` and can be changed live with `.setprefix`.
 | `.setgpp` | Updates the group profile picture (reply to an image). |
 | `.clear` | Clears the bot's own recent message in the chat. |
 
----
+</details>
 
-## 🔒 Owner-Only Commands
+<details>
+<summary><b>🔒 Owner-Only Commands</b></summary>
+<br>
 
 | Command | Description |
 |---|---|
@@ -118,9 +187,11 @@ Default command prefix is `.` and can be changed live with `.setprefix`.
 | `.setmention` | Sets a custom media/text reply for when the bot is @mentioned. |
 | `.mention on/off` | Toggles the custom mention-reply feature. |
 
----
+</details>
 
-## 🎨 Image & Sticker Commands
+<details>
+<summary><b>🎨 Image & Sticker Commands</b></summary>
+<br>
 
 | Command | Description |
 |---|---|
@@ -135,11 +206,13 @@ Default command prefix is `.` and can be changed live with `.setprefix`.
 | `.tgsticker <link>` / `.tg` | Downloads an entire Telegram sticker pack. |
 | `.attp <text>` | Generates an animated blinking-text sticker. |
 | `.igs <link>` / `.igsc <link>` | Converts Instagram photos/reels into stickers (with optional square crop). |
-| `.metallic`, `.ice`, `.snow`, `.impressive`, `.matrix`, `.light`, `.neon`, `.devil`, `.purple`, `.thunder`, `.leaves`, `.1917`, `.arena`, `.hacker`, `.sand`, `.blackpink`, `.glitch`, `.fire` `<text>` | 17 different stylized text-effect image generators. |
+| `.metallic`, `.ice`, `.snow`, `.impressive`, `.matrix`, `.light`, `.neon`, `.devil`, `.purple`, `.thunder`, `.leaves`, `.1917`, `.arena`, `.hacker`, `.sand`, `.blackpink`, `.glitch`, `.fire` `<text>` | 17 stylized text-effect image generators. |
 
----
+</details>
 
-## 📥 Media Downloaders
+<details>
+<summary><b>📥 Media Downloaders</b></summary>
+<br>
 
 | Command | Description |
 |---|---|
@@ -153,23 +226,27 @@ Default command prefix is `.` and can be changed live with `.setprefix`.
 | `.imagine` / `.flux` / `.dalle <prompt>` | Generates an AI image from a text prompt. |
 | `.sora <prompt>` | Generates a short AI text-to-video clip. |
 
----
+</details>
 
-## 🎮 Game Commands
+<details>
+<summary><b>🎮 Game Commands</b></summary>
+<br>
 
 | Command | Description |
 |---|---|
 | `.tictactoe` / `.ttt [room name]` | Starts or joins a Tic-Tac-Toe match; play by typing numbers 1–9. |
 | `.hangman` | Starts a game of Hangman. |
-| `.guess <letter>` | Guesses a letter in the current Hangman game. |
+| `.guess <letter>` | Guesses a letter in the active Hangman game. |
 | `.trivia` | Starts a random trivia question. |
 | `.answer <answer>` | Submits an answer to the active trivia question. |
 | `.truth` | Sends a random Truth prompt. |
 | `.dare` | Sends a random Dare prompt. |
 
----
+</details>
 
-## 🤖 AI Commands
+<details>
+<summary><b>🤖 AI Commands</b></summary>
+<br>
 
 | Command | Description |
 |---|---|
@@ -177,9 +254,11 @@ Default command prefix is `.` and can be changed live with `.setprefix`.
 | `.gemini <question>` | Asks a question to Google's Gemini AI. |
 | `.chatbot on/off` | Enables free-flowing AI conversation when the bot is mentioned/replied to (group admin command). |
 
----
+</details>
 
-## 🎯 Fun & Social Commands
+<details>
+<summary><b>🎯 Fun & Social Commands</b></summary>
+<br>
 
 | Command | Description |
 |---|---|
@@ -195,9 +274,11 @@ Default command prefix is `.` and can be changed live with `.setprefix`.
 | `.simp @user` | Generates a "simp card" image for a user. |
 | `.stupid @user [text]` / `.itssostupid` | Generates a meme "it's so stupid" card for a user. |
 
----
+</details>
 
-## 🧩 Misc Canvas Commands
+<details>
+<summary><b>🧩 Misc Canvas Commands</b></summary>
+<br>
 
 | Command | Description |
 |---|---|
@@ -206,15 +287,17 @@ Default command prefix is `.` and can be changed live with `.setprefix`.
 | `.circle` | Crops your/replied avatar into a circle. |
 | `.lgbt` | Adds a pride-flag overlay to an avatar. |
 | `.lolice` | Generates a "lolice" badge overlay. |
-| `.namecard <username|birthday|desc>` | Generates a personalized name card. |
+| `.namecard <username\|birthday\|desc>` | Generates a personalized name card. |
 | `.oogway <quote>` / `.oogway2` | Generates a Master Oogway wisdom-quote image. |
-| `.tweet <name|handle|comment|theme>` | Generates a fake tweet screenshot. |
-| `.ytcomment <username|comment>` | Generates a fake YouTube comment screenshot. |
+| `.tweet <name\|handle\|comment\|theme>` | Generates a fake tweet screenshot. |
+| `.ytcomment <username\|comment>` | Generates a fake YouTube comment screenshot. |
 | `.comrade`, `.gay`, `.glass`, `.jail`, `.passed`, `.triggered` | Various avatar overlay filters/effects. |
 
----
+</details>
 
-## 🖼️ Anime Reaction Commands
+<details>
+<summary><b>🖼️ Anime Reaction Commands</b></summary>
+<br>
 
 | Command | Description |
 |---|---|
@@ -222,26 +305,32 @@ Default command prefix is `.` and can be changed live with `.setprefix`.
 | `.animu <type>` | General command to fetch any supported anime reaction type. |
 | `.animuquote` / `.quote` (anime) | Sends a random anime quote. |
 
----
+</details>
 
-## 🥧 Pies (Regional Meme Images)
+<details>
+<summary><b>🥧 Pies (Regional Meme Images)</b></summary>
+<br>
 
 | Command | Description |
 |---|---|
 | `.pies <country>` | Fetches a themed meme image for a supported country. |
 | `.china`, `.indonesia`, `.japan`, `.korea`, `.india`, `.malaysia`, `.thailand` | Quick-access shortcuts for each country's pies command. |
 
----
+</details>
 
-## 💻 GitHub / Repo Commands
+<details>
+<summary><b>💻 GitHub / Repo Commands</b></summary>
+<br>
 
 | Command | Description |
 |---|---|
 | `.git` / `.github` / `.sc` / `.script` / `.repo` | Shows the bot's GitHub repository stats (stars, forks, size, last update). |
 
----
+</details>
 
-## 🫸 Pain (Nagato) Exclusive Commands
+<details>
+<summary><b>🫸 Pain (Nagato) Exclusive Commands</b></summary>
+<br>
 
 A full Akatsuki-themed command set dedicated to Pain/Nagato from Naruto.
 
@@ -259,9 +348,15 @@ A full Akatsuki-themed command set dedicated to Pain/Nagato from Naruto.
 | `.chibaku` | Plays the *Chibaku Tensei* sound effect. |
 | `.greater` | Plays the *Greater Pain* audio clip. |
 
+</details>
+
 ---
 
 ## 🛠️ Setup & Installation
+
+<details>
+<summary><b>Click to expand setup instructions</b></summary>
+<br>
 
 ### Prerequisites
 - Node.js **v18+**
@@ -298,6 +393,8 @@ On first run, scan the QR code (or use pairing code mode) with **Linked Devices*
 | `npm run start:clean` | Cleanup + optimized start. |
 | `npm run start:fresh` | Fresh session + normal start. |
 
+</details>
+
 ---
 
 ## ⚠️ Disclaimer
@@ -310,26 +407,22 @@ This bot is created for **educational purposes only**. It is **not** an official
 
 ---
 
-## 📄 License
+## 👤 Developer & Contact
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT). You must retain original license/copyright notices, credit original authors, and not use the project for spam or malicious purposes.
-
----
-
-## 🙌 Credits
-
-- [Baileys](https://github.com/WhiskeySockets/Baileys) — WhatsApp Web API library
-- Coded & maintained by **Muaz**
-- Pairing code implementation inspired by TechGod143 & Dgxeon
-
----
-
-## ☕ Support
+Created and maintained with ❤️ by **Muaz**.
 
 <div align="center">
-<a href="https://buymeacoffee.com/ahsanhabibmuaz" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
-</a>
+
+[![Bio Link](https://img.shields.io/badge/Website-drift.rip%2Fmuaz-FF0055?style=for-the-badge&logo=firefox&logoColor=white)](https://drift.rip/muaz)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-@ahsanhabibmuaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsanhabibmuaz)
+
 </div>
 
-> Made with ♥ from Bangladesh — *Feel Pain, Accept Pain, Know Pain* 🫸
+---
+
+<!-- Bottom Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,50:2A004E,100:000000&height=120&section=footer" width="100%" />
+
+<div align="center">
+  <sub>© Pain-Bot Project. All rights reserved.</sub>
+</div>
