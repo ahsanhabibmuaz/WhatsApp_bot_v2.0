@@ -397,7 +397,7 @@ This bot is created for **educational purposes only**. It is **not** an official
 
 ## 👤 Developer & Contact
 
-Created and maintained with ❤️ by **Muaz**.
+<p align="center">Created and maintained with ❤️ by **Muaz**.</p>
 
 <div align="center">
 
@@ -405,13 +405,10 @@ Created and maintained with ❤️ by **Muaz**.
 [![GitHub Profile](https://img.shields.io/badge/GitHub-@ahsanhabibmuaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsanhabibmuaz)
 
 </div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
 </div>
----
-
-<!-- Bottom Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,50:2A004E,100:000000&height=120&section=footer" width="100%" />
 
 <div align="center">
   <sub>© Pain-Bot Project. All rights reserved.</sub>
