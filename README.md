@@ -313,6 +313,18 @@ A full Akatsuki-themed command set dedicated to Pain/Nagato from Naruto.
 </details>
 
 - - -
+### Maintenance Section:
+<div align="center">
+
+[![Pair Code](https://img.shields.io/badge/Pair%20Code-Get%20Session-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://knight-bot-paircode.onrender.com/)  
+[![YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/watch?v=-oz_u1iMgf8&pp=0gcJCWgCo7VqN5tD)  
+
+[![Deploy on Katabump](https://img.shields.io/badge/Deploy%20on-Katabump-007ACC?style=for-the-badge)](https://dashboard.katabump.com/dashboard#d6b7d6)  
+[![Deploy on Panel](https://img.shields.io/badge/Deploy%20on-Bot%20Hosting-FF8C00?style=for-the-badge)](https://bot-hosting.net/?aff=1068419752923508776)
+
+</div>
+
+- - -
 
 ### ⚠️ Disclaimer
 
