@@ -311,7 +311,9 @@ A full Akatsuki-themed command set dedicated to Pain/Nagato from Naruto.
 | `.greater` | Plays the *Greater Pain* audio clip. |
 
 </details>
+
 - - -
+
 ### ⚠️ Disclaimer
 
 This bot is created for **educational purposes only**. It is **not** an official WhatsApp product. Using automated/unofficial clients can result in your WhatsApp account being banned — use at your own risk. The developers assume no liability for misuse, spam, or account restrictions.
