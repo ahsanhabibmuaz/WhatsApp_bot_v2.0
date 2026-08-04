@@ -1,4 +1,4 @@
-<h1 align="center">🫸 PAIN BOT v2.0</h1>
+<h1 align="center">PAIN BOT (v2.0)</h1>
 <div align="center">
 <!-- Animated Dynamic Typing Banner -->
 <a href="https://drift.rip/muaz">
