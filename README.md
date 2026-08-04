@@ -292,7 +292,7 @@
 </details>
 
 <details>
-<summary><b>🫸 Pain (Nagato) Exclusive Commands</b></summary>
+<summary><b>🫸 Pain Exclusive Commands</b></summary>
 <br>
 
 A full Akatsuki-themed command set dedicated to Pain/Nagato from Naruto.
