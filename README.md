@@ -20,7 +20,7 @@
 
 ---
 
-## 🔒 Why is this Repository Private?
+### 🔒 Why is this Repository Private?
 
 <div align="center">
   <img src="https://i.imgur.com/dAnA42f.gif" width="100%" height="3px" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Key Features
+### 🚀 Key Features
 
 * ⚡ **Ultra-Fast Execution:** Optimized session handling with minimal latency.
 * 🛡️ **Automated Moderation:** Smart keyword filtering, anti-spam mechanisms, and admin commands.
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-## 📜 Full Command Reference
+### 📜 Full Command Reference
 
 *(Click any category below to expand it.)*
 
@@ -318,7 +318,7 @@ A full Akatsuki-themed command set dedicated to Pain/Nagato from Naruto.
 
 </details>
 
-## ⚠️ Disclaimer
+### ⚠️ Disclaimer
 
 This bot is created for **educational purposes only**. It is **not** an official WhatsApp product. Using automated/unofficial clients can result in your WhatsApp account being banned — use at your own risk. The developers assume no liability for misuse, spam, or account restrictions.
 
@@ -328,7 +328,7 @@ This bot is created for **educational purposes only**. It is **not** an official
 
 ---
 
-## 👤 Developer & Contact
+### 👤 Developer & Contact
 
 <p align="center">Created and maintained with ❤️ by <b>Muaz</b>.</p>
 
