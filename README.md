@@ -12,14 +12,6 @@
   <img src="https://i.postimg.cc/rFn9X6CL/bot-image.jpg" alt="Pain Bot" height="300" style="border-radius: 14px; box-shadow: 0 0 20px rgba(255, 0, 85, 0.4);"> 
 </a>
 
-<br><br>
-
-<!-- Animated Badges & Status Indicators -->
-[![Repo Status](https://img.shields.io/badge/Repo_Status-Private-FF0055?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Developer](https://img.shields.io/badge/Developer-Muaz-00D2FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://drift.rip/muaz)
-[![Version](https://img.shields.io/badge/Version-2.0.0-purple?style=for-the-badge&logo=semantic-release&logoColor=white)](https://github.com)
-[![Library](https://img.shields.io/badge/Library-Baileys-00D2FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/WhiskeySockets/Baileys)
-[![Node](https://img.shields.io/badge/Node.js-v18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 
 </div>
 
