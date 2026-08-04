@@ -1,5 +1,5 @@
 <h2 align="center">PAIN BOT</h2>
-<p align="center">Current Bot Version `2.0`</p>
+<p align="center" font-size="small">Current Bot Version `2.0`</p>
 <div align="center">
 <!-- Animated Dynamic Typing Banner -->
 <a href="https://drift.rip/muaz">
