@@ -39,7 +39,7 @@
 * 🛠️ **Utility & Media Engine:** Built-in sticker conversion, media downloaders, and custom auto-replies.
 * 🔐 **Encrypted Session Guard:** Isolated environment configs for continuous, secure execution.
 * 🤖 **AI-Powered Chat:** GPT & Gemini integration plus an always-on group chatbot mode.
-* 🫸 **Pain (Nagato) Theme Pack:** A full set of Akatsuki-exclusive audio & lore commands.
+* 🫸 **"Pain" Theme Pack:** A full set of Akatsuki-exclusive audio & lore commands.
 * 🎮 **Built-In Mini-Games:** Tic-Tac-Toe, Hangman, Trivia, Truth or Dare.
 * 🎨 **Sticker & Image Lab:** Text-effect generators, background removal, AI upscaling, and more.
 
