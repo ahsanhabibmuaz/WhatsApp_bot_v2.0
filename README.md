@@ -322,10 +322,8 @@ This bot is created for **educational purposes only**. It is **not** an official
 
 ### 👤 Developer(s):
 
-- **Ahsan Habib Muaz** ✌️
-- **Sonali**
-- **Cuzhi**
-- **Mr Unique Hacker YT**
+- **Muaz** (Dev)
+- **Sonali** (Bug Tester)
 
 
 <div align="center">
