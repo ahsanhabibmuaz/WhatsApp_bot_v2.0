@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Top Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2A004E,100:FF0055&height=180&section=header&text=PAIN-BOT%20v2.0&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+## 🫸 PAIN BOT v2.0
 
 <!-- Animated Dynamic Typing Banner -->
 <a href="https://drift.rip/muaz">
