@@ -313,22 +313,7 @@ A full Akatsuki-themed command set dedicated to Pain/Nagato from Naruto.
 </details>
 
 - - -
-### Maintenance Section:
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/ahsanhabibmuaz"><img src="https://img.shields.io/badge/Author-@ahsanhabibmuaz-181717?style=flat-square&logo=github"></a>
-  <a href="https://knight-bot-paircode.onrender.com/"><img src="https://img.shields.io/badge/Pair_Code-Get_Session-00C7B7?style=flat-square&logo=render&logoColor=white"></a>
-  <a href="https://m.youtube.com/watch?v=-oz_u1iMgf8&pp=0gcJCWgCo7VqN5tD"><img src="https://img.shields.io/badge/Tutorial-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
-  <a href="https://dashboard.katabump.com/dashboard#d6b7d6"><img src="https://img.shields.io/badge/Deploy-Katabump-007ACC?style=flat-square"></a>
-  <a href="https://bot-hosting.net/?aff=1068419752923508776"><img src="https://img.shields.io/badge/Deploy-Panel-FF8C00?style=flat-square"></a>
-</p>
-
-
-</div>
-
-- - -
-
+  
 ### ⚠️ Disclaimer
 
 This bot is created for **educational purposes only**. It is **not** an official WhatsApp product. Using automated/unofficial clients can result in your WhatsApp account being banned — use at your own risk. The developers assume no liability for misuse, spam, or account restrictions.
