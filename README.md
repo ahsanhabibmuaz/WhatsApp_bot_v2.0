@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=Automated+WhatsApp+Bot;High-Performance+Group+Moderation;Encrypted+Session+Handling;Themed+Around+Pain+%2F+Nagato;Developed+by+Muaz" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br>
 
 <!-- Main Bot Banner Image -->
 <a href="https://drift.rip/muaz"> 
