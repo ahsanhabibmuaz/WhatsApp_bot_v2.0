@@ -23,16 +23,6 @@
 
 </div>
 
----
-
-### 🐍 Contribution Activity Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
-</div>
-
----
-
 > [!CAUTION]
 > 🔒 **This repository is now private.**  
 > Due to security reasons, protecting API credentials, and ensuring project integrity, **Pain-Bot v2.0** is no longer maintained in a public repository. Source code access and active updates are restricted to authorized maintainers.
@@ -415,7 +405,9 @@ Created and maintained with ❤️ by **Muaz**.
 [![GitHub Profile](https://img.shields.io/badge/GitHub-@ahsanhabibmuaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsanhabibmuaz)
 
 </div>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+</div>
 ---
 
 <!-- Bottom Animated Footer Wave -->
