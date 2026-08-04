@@ -5,5 +5,5 @@
     <img src="https://i.postimg.cc/rFn9X6CL/bot-image.jpg" alt="Pain Bot" height="300"> 
   </a> 
 </div>
-<br>
+
 🔒 **This repo is now private**
