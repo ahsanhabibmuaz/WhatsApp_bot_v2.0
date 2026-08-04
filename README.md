@@ -9,10 +9,10 @@
   <img src="https://i.postimg.cc/rFn9X6CL/bot-image.jpg" alt="Pain Bot" height="300" style="border-radius: 12px;"> 
 </a>
 
-<br><br>
+<br>
 
-#### [![Status](https://img.shields.io/badge/Repo_Status-Private-red?style=for-the-badge&logo=github)](https://github.com)
-#### [![Developer](https://img.shields.io/badge/Developer-Muaz-0070f3?style=for-the-badge)](https://drift.rip/muaz)
+[![Status](https://img.shields.io/badge/Repo_Status-Private-red?style=for-the-badge&logo=github)](https://github.com)
+[![Developer](https://img.shields.io/badge/Developer-Muaz-0070f3?style=for-the-badge)](https://drift.rip/muaz)
 
 </div>
 
