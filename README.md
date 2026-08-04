@@ -45,7 +45,7 @@
 ### 📜 Full Command Reference
 <div align="center">
 
-<h5><i>(Click any category below to expand it.)</i></h5>
+(Click any category below to expand it.)
 
 </div>
 
