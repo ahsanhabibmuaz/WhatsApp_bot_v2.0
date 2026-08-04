@@ -82,5 +82,7 @@ Created and maintained with ❤️ by **Muaz**.
 
 ---
 
-<!-- Bottom Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,50:2A004E,100:000000&height=120&section=footer" width="100%" />
+<!-- Bottom Footer Wave -->
+<div align="center">
+  <sub>© Pain-Bot v2.0 Project. All rights reserved.</sub>
+</div>
