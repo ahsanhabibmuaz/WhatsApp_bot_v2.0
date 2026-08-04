@@ -11,24 +11,13 @@
 <a href="https://drift.rip/muaz"> 
   <img src="https://i.postimg.cc/rFn9X6CL/bot-image.jpg" alt="Pain Bot" height="300" style="border-radius: 14px; box-shadow: 0 0 20px rgba(255, 0, 85, 0.4);"> 
 </a>
-
+<br>
 
 </div>
 
 > [!CAUTION]
 > 🔒 **This repository is now private.**  
 > Due to security reasons, protecting API credentials, and ensuring project integrity, **Pain-Bot v2.0** is no longer maintained in a public repository. Source code access and active updates are restricted to authorized maintainers.
-
-
----
-
-## 📌 Overview
-
-**Pain-Bot v2.0** is an automated, high-performance WhatsApp bot engineered for group moderation, automated workflows, media handling, and rapid command responses.
-
-Themed around **Pain / Nagato** from Naruto, it runs on the **Baileys** multi-device WhatsApp Web API and packs together group management, an AI chatbot, media downloaders, sticker/image tools, mini-games, and a dedicated Akatsuki-flavored command set — all triggered with a simple, fully customizable command prefix.
-
-The codebase was transitioned to a private infrastructure to enforce strict security standards, protect backend configurations, and prevent token or session hijack exploits.
 
 ---
 
@@ -61,7 +50,7 @@ The codebase was transitioned to a private infrastructure to enforce strict secu
 
 ## 📜 Full Command Reference
 
-*Click any category below to expand it.*
+*(Click any category below to expand it.)*
 
 </div>
 
@@ -330,53 +319,6 @@ A full Akatsuki-themed command set dedicated to Pain/Nagato from Naruto.
 
 </details>
 
----
-
-## 🛠️ Setup & Installation
-
-<details>
-<summary><b>Click to expand setup instructions</b></summary>
-<br>
-
-### Prerequisites
-- Node.js **v18+**
-- Git
-- `ffmpeg` installed and available in your system PATH (required for stickers/audio/video conversion)
-
-### Steps
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/ahsanhabibmuaz/pain-bot-2.git
-cd pain-bot-2
-
-# 2. Install dependencies
-npm install
-
-# 3. Configure the bot
-# Edit settings.js to set your ownerNumber, bot name, and other options
-
-# 4. Run the bot
-node index.js
-```
-
-On first run, scan the QR code (or use pairing code mode) with **Linked Devices** in WhatsApp to connect your account.
-
-### Useful npm scripts
-
-| Script | Purpose |
-|---|---|
-| `npm start` | Starts the bot normally. |
-| `npm run start:optimized` | Starts with memory-optimized Node flags. |
-| `npm run cleanup` | Cleans up temp/session clutter. |
-| `npm run reset-session` | Wipes the current session for a fresh login. |
-| `npm run start:clean` | Cleanup + optimized start. |
-| `npm run start:fresh` | Fresh session + normal start. |
-
-</details>
-
----
-
 ## ⚠️ Disclaimer
 
 This bot is created for **educational purposes only**. It is **not** an official WhatsApp product. Using automated/unofficial clients can result in your WhatsApp account being banned — use at your own risk. The developers assume no liability for misuse, spam, or account restrictions.
@@ -389,7 +331,7 @@ This bot is created for **educational purposes only**. It is **not** an official
 
 ## 👤 Developer & Contact
 
-<p align="center">Created and maintained with ❤️ by **Muaz**.</p>
+<p align="center">Created and maintained with ❤️ by <b>Muaz</b>.</p>
 
 <div align="center">
 
