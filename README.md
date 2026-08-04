@@ -1,6 +1,4 @@
-<div align="center">
-  # 🫸 PAIN BOT v2.0
-</div>
+# 🫸 PAIN BOT v2.0
 <div align="center">
 <!-- Animated Dynamic Typing Banner -->
 <a href="https://drift.rip/muaz">
