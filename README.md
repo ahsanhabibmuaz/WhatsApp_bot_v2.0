@@ -318,15 +318,13 @@ A full Akatsuki-themed command set dedicated to Pain/Nagato from Naruto.
 
 This bot is created for **educational purposes only**. It is **not** an official WhatsApp product. Using automated/unofficial clients can result in your WhatsApp account being banned — use at your own risk. The developers assume no liability for misuse, spam, or account restrictions.
 
-- Not affiliated with, authorized, maintained, sponsored, or endorsed by WhatsApp.
-- Do not use this bot to spam or send unsolicited bulk messages.
-- Use in compliance with all applicable laws.
-
 ---
 
-### 👤 Developer:
+### 👤 Developer(s):
 
 <p align="center">Created and maintained with ❤️ by <b>Muaz</b>.</p>
+<p align="center">Special Thanks to <b>Sonali</b>.</p>
+
 
 <div align="center">
 
