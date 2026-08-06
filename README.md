@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    [Pain Repo](https://github.com/deepweb-system/Pain)
+    <a href="https://github.com/deepweb-system/Pain" alt="Source"><b>Pain Repo</b>: WhatsApp Bot</a>
   </h1>
 </div>
 <div align="center">
