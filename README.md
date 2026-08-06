@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>
+  <h2>
     <a href="https://github.com/deepweb-system/Pain" alt="Source"><b>Pain Repo</b>: WhatsApp Bot</a>
-  </h1>
+  </h2>
 </div>
 <div align="center">
   <sub>© Pain-Bot Project. All rights reserved.</sub>
